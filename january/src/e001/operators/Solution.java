@@ -6,6 +6,17 @@ public class Solution {
 
     // Complete the solve function below.
     static void solve(double meal_cost, int tip_percent, int tax_percent) {
+        double tip = (meal_cost*tip_percent)/100;
+        double tax = (meal_cost*tax_percent)/100;
+        double total1 = meal_cost+tip+tax;
+        int total;
+        if(total1-(int)total1<0.5){
+            total = (int) total1;
+        }else{
+            total1 = total1+1;
+            total = (int) total1;
+        }
+        System.out.println(total);
 
 
     }
