@@ -1,4 +1,4 @@
-package e002.IntrotoConditionalStatements;
+package e002.introToConditionalStatements;
 
 import java.util.Scanner;
 
