@@ -1,4 +1,4 @@
-package e003.classVersus.Instance;
+package e003.classVersusInstance;
 
 public class Person {
     private int age;
