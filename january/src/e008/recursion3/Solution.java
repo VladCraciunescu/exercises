@@ -34,4 +34,5 @@ public class Solution {
         scanner.close();
     }
 }
+
 //https://www.hackerrank.com/challenges/30-recursion/problem
