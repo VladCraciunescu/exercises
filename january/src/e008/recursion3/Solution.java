@@ -1,4 +1,4 @@
-package e008.recurion3;
+package e008.recursion3;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -34,3 +34,4 @@ public class Solution {
         scanner.close();
     }
 }
+//https://www.hackerrank.com/challenges/30-recursion/problem

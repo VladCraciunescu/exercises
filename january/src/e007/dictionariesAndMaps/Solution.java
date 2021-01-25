@@ -1,4 +1,4 @@
-package e007.dictionariesAndMas;
+package e007.dictionariesAndMaps;
 
 import java.util.HashMap;
 import java.util.Map;
