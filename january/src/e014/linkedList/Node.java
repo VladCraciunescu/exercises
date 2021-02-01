@@ -1,4 +1,4 @@
-package e014.LinkedList;
+package e014.linkedList;
 
 public class Node {
     int data;
