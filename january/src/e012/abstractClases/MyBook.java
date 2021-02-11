@@ -1,8 +1,8 @@
 package e012.abstractClases;
 
 class MyBook extends Book {
-    int price;
 
+        int price;
     public MyBook(String title, String author, int price) {
         super(title, author);
         this.price = price;

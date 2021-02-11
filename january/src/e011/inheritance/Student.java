@@ -1,6 +1,9 @@
 package e011.inheritance;
 
 public class Student extends Person {
+    public static void main(String[] args) {
+
+    }
     private int[] testScores ;
 
     public Student(String firstName, String lastName, int identification, int[] testScores) {
