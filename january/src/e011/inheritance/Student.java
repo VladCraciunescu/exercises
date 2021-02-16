@@ -2,6 +2,7 @@ package e011.inheritance;
 
 public class Student extends Person {
     public static void main(String[] args) {
+        
 
     }
     private int[] testScores ;
