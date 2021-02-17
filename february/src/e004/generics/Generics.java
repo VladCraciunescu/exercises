@@ -37,3 +37,5 @@ public class Generics {
         }
     }
 }
+
+// https://www.hackerrank.com/challenges/30-generics/problem
