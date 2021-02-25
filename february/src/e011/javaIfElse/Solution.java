@@ -23,3 +23,5 @@ public class Solution {
         scanner.close();
     }
 }
+
+//https://www.hackerrank.com/challenges/java-stdin-stdout/problem?h_r=next-challenge&h_v=zen
