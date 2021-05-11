@@ -32,4 +32,6 @@ public class Solution {
         scan.close();
     }
 }
+
+
 //https://www.hackerrank.com/challenges/java-1d-array/problem
