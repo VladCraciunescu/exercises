@@ -20,4 +20,6 @@ public class Solution {
         }
     }
 }
+
+
 //https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem
